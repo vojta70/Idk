@@ -1,0 +1,37 @@
+.main {
+    padding-left: 10%;
+    padding-right: 10%;
+    text-decoration: none;
+}
+
+.row {
+    position: relative;
+    width: 100%;
+}
+
+.imgwithtext {
+    position: relative;
+    width: 45%;
+    float: right;
+    margin-top: 1rem;
+}
+
+img {
+    width: 100;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: right;
+}
+
+.left {
+    width: 45%;
+    position: absolute;
+}
